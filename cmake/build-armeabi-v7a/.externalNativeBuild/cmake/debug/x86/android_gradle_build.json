@@ -1,0 +1,179 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/blueberry/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"libprotobuf-lite-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libprotobuf-lite",
+			"buildCommand" : "/Users/blueberry/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86 --target libprotobuf-lite",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/arena.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/extension_set.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/generated_message_table_driven_lite.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/generated_message_util.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/implicit_weak_message.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/parse_context.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/io/coded_stream.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/io/strtod.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/io/zero_copy_stream.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/io/zero_copy_stream_impl_lite.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/message_lite.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/repeated_field.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/stubs/bytestream.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/stubs/common.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/stubs/int128.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/stubs/io_win32.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/stubs/status.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/stubs/statusor.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/stubs/stringpiece.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/stubs/stringprintf.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/stubs/structurally_valid.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/stubs/strutil.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/stubs/time.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot  -DHAVE_PTHREAD -I/Users/blueberry/code/xhs/my/protobubf_blueberry/src -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/blueberry/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info     -c ",
+					"src" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/src/google/protobuf/wire_format_lite.cc",
+					"workingDirectory" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/x86/libprotobuf-lite.a",
+			"toolchain" : "17469782173135807945"
+		}
+	},
+	"toolchains" : 
+	{
+		"17469782173135807945" : 
+		{
+			"cCompilerExecutable" : "/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/blueberry/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

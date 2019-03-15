@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/blueberry/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "libprotobuf-lite-Debug-armeabi-v7a": {
+      "artifactName": "libprotobuf-lite",
+      "buildCommand": "/Users/blueberry/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/armeabi-v7a --target libprotobuf-lite",
+      "abi": "armeabi-v7a",
+      "output": "/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/armeabi-v7a/libprotobuf-lite.a"
+    }
+  }
+}

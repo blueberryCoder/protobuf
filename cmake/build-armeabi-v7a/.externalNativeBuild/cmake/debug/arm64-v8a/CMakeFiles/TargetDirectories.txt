@@ -1,0 +1,3 @@
+/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/blueberry/code/xhs/my/protobubf_blueberry/cmake/build-armeabi-v7a/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/libprotobuf-lite.dir
