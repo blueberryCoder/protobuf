@@ -1,11 +1,11 @@
 export NDK_ROOT=~/Library/Android/sdk/ndk-bundle
-export PREFIX=~/tools/android/protobuf-3.7.x-ndk
-export PATH=~/tools/ndk16-toolchain/bin:$PATH
-export SYSROOT=~/tools/ndk16-toolchain/sysroot
+export PREFIX=~/code/tools/android/protobuf-3.7.x-ndk
+export PATH=~/code/tools/android/android-ndk16-arm/bin:$PATH
+export SYSROOT=~/code/tools/android/android-ndk16-arm/sysroot
 export CC="arm-linux-androideabi-gcc --sysroot $SYSROOT"
 export CXX="arm-linux-androideabi-g++ --sysroot $SYSROOT"
 export CXXSTL=$NDK_ROOT/sources/cxx-stl/gnu-libstdc++/4.9
-export LD=~/tools/ndk16-toolchain/bin/arm-linux-androideabi-ld
+export LD=~/code/tools/android/android-ndk16-arm/bin/arm-linux-androideabi-ld
 
 ../configure \
 --prefix=$PREFIX \
