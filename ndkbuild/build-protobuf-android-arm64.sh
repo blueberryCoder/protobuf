@@ -14,8 +14,8 @@ export LD=~/code/tools/android/android-ndk16-arm64/bin/aarch64-linux-android-ld
 --disable-shared \
 --enable-cross-compile \
 --with-protoc=protoc \
-CFLAGS="-march=armv8-a -D__ANDROID_API__=21" \
-CXXFLAGS="-frtti -fexceptions -march=armv8-a \
+CFLAGS="-march=arm64 -D__ANDROID_API__=21" \
+CXXFLAGS="-frtti -fexceptions -arch=arm64 \
 -I${NDK_ROOT}/sources/android/support/include \
 -I${NDK_ROOT}/sources/cxx-stl/gnu-libstdc++/4.9/include \
 -I${NDK_ROOT}/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -D__ANDROID_API__=21" \
